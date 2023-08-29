@@ -1,0 +1,24 @@
+{
+  "type": "record",
+  "namespace": "com.janaa",
+  "name": "Student",
+  "doc": "Avro Schema for our Student",
+  "fields": [
+    {
+      "name": "studentName",
+      "type": "string",
+      "doc": "Name of the student"
+    },
+    {
+      "name": "studentMark",
+      "type": "int",
+      "doc": "Mark of the student"
+    },
+    {
+      "name": "pass",
+      "type": "boolean",
+      "doc": "Student passed or not",
+      "default": true
+    }
+  ]
+}
