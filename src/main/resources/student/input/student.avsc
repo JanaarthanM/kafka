@@ -18,7 +18,6 @@
       "name": "pass",
       "type": "boolean",
       "doc": "Student passed or not",
-      "default": true
     }
   ]
 }
