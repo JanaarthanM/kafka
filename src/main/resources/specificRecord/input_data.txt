@@ -1,0 +1,5 @@
+first_name,last_name,age,height,weight,automated_email
+John,Abraham,39,5.11,90.2,false
+Rajesh,Reddy,40,5.6,80.1,true
+Akilesh,Gowda,36,5.5,70.4,true
+Mahesh,Nair,43,5.8,85.6,false
