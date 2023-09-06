@@ -1,0 +1,5 @@
+first_name,last_name,nick_name
+sunil,kumar,suku
+anil,krishna,anku
+rajesh,kanna,raki
+john,mathews,joe
