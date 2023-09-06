@@ -106,3 +106,7 @@ java -jar avro-tools-1.11.2.jar getschema /Users/janaarthanm/Documents/java_work
     "default" : true
   } ]
 }
+
+------------------------------------------------------------------------------------------------------------
+Revisit Schema Evolution after learning schema registry - !!! Important !!!
+
