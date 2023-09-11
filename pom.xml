@@ -13,8 +13,8 @@
 
 	<properties>
 		<avro.version>1.11.1</avro.version>
-		<!--kafka.version>7.2.2-ccs</!kafka.version>
-		<confluent.version>7.2.2</confluent.version> -->
+		<kafka.version>7.2.2-ccs</kafka.version>
+		<!--<confluent.version>7.2.2</confluent.version> -->
 	</properties>
 
 	<!--necessary to resolve confluent dependencies-->
@@ -33,16 +33,12 @@
 			<artifactId>avro</artifactId>
 			<version>${avro.version}</version>
 		</dependency>
-
-		<!--dependencies needed for the kafka part-->
-		<!-- https://mvnrepository.com/artifact/org.apache.kafka/kafka-clients -->
-		<!--
 		<dependency>
 			<groupId>org.apache.kafka</groupId>
 			<artifactId>kafka-clients</artifactId>
 			<version>${kafka.version}</version>
 		</dependency>
-
+		<!--
 		<dependency>
 			<groupId>io.confluent</groupId>
 			<artifactId>kafka-avro-serializer</artifactId>
